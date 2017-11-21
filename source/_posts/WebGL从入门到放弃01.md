@@ -8,6 +8,8 @@ tags:
 
 WebGL的编程过程很扯淡，有点把大象放进冰箱的感觉。
 
+<!-- more -->
+
 先来画个点吧
 
 - 简单的shader
@@ -67,3 +69,5 @@ gl.clear(gl.COLOR_BUFFER_BIT); //清空颜色缓冲区(设置背景色)
 ```
 
 这里只是做个简单的测试，相关函数的说明日后在说
+
+相关示例的GitHub地址：https://github.com/wdkkk/WTFWebGL
