@@ -64,4 +64,8 @@ gl.getAttribLocation(program,name)
 gl.vertexAttrib3f(location,v0,v1,v2)
 ```
 
+update：程序流程图
+
+![](http://ojv7mano6.bkt.clouddn.com/17-12-11/1663928.jpg)
+
 相关示例的GitHub地址：https://github.com/wdkkk/WTFWebGL

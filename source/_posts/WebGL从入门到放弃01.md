@@ -70,4 +70,8 @@ gl.clear(gl.COLOR_BUFFER_BIT); //清空颜色缓冲区(设置背景色)
 
 这里只是做个简单的测试，相关函数的说明日后在说
 
+update:程序流程图
+
+![](http://ojv7mano6.bkt.clouddn.com/17-12-11/40845817.jpg)
+
 相关示例的GitHub地址：https://github.com/wdkkk/WTFWebGL
